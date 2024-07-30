@@ -1,0 +1,43 @@
+h2 {
+    padding: 5px;
+    border: 2px solid #01040b9a;
+    text-align: center;
+  }
+
+p{
+  float: right;
+  margin: 0 1.5%;
+  width: 75%;
+}
+
+code-nav-selected {
+  float: right;
+  background: #2db34a;
+  border-radius: 0px;
+  border: 1px solid #01040b9a;
+  color: #fafcff;
+  display: block;
+  font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+  padding: 2px 40px;
+  margin: 10px;
+  text-align: center;
+}
+
+code-nav-not-selected {
+  float: right;
+  background: #0a44f1;
+  border-radius: 0px;
+  border: 1px solid #01040b9a;
+  color: #fafcff;
+  display: block;
+  font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+  padding: 2px 40px;
+  margin: 10px;
+  text-align: center;
+}
+
+code-img-body {
+   float: left;
+   display: inline;
+   border: 1px solid #01040b9a;
+}
